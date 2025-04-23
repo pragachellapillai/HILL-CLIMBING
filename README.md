@@ -77,10 +77,10 @@ def SimpleHillClimbing():
             best_score = score
 
 
-# answer = "Artificial Intelligence"
-# print(generate_random_solution(answer))
-# solution = generate_random_solution(answer)
-# print(evaluate(solution, answer))
+#answer = "Artificial Intelligence"
+#print(generate_random_solution(answer))
+#solution = generate_random_solution(answer)
+#print(evaluate(solution, answer))
 
 SimpleHillClimbing()
 
@@ -108,11 +108,11 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
 
-## OUTPUT
+##OUTPUT
 
 ![Screenshot 2025-04-23 160013](https://github.com/user-attachments/assets/f6922307-6408-4448-a66a-77a09fde4b44)
 
-## RESULT
+##RESULT
 Thus the Simple Hill Climb Algorithm Implemented successfully.
 
  
