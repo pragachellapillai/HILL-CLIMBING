@@ -39,6 +39,7 @@ Feedback is provided in terms of heuristic function
 <p> Lopp Step -2 and Step-3  until we achieve the score to be Zero to achieve Global Minima.</p>
 
 <h3>PROGRAM</h3>
+
 ```
 import random
 import string
@@ -108,11 +109,11 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
 
 
-# OUTPUT
+## OUTPUT
 
 ![Screenshot 2025-04-23 160013](https://github.com/user-attachments/assets/f6922307-6408-4448-a66a-77a09fde4b44)
 
- # RESULT
+ ## RESULT
 Thus the Simple Hill Climb Algorithm Implemented successfully.
 
  
